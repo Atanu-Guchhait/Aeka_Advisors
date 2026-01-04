@@ -119,6 +119,9 @@ Develop a machine learning model that identifies the **song title and artist** u
 - Clear explanation in `README.md`
 
 ---
+## 📁 Repository Structure
+
+```
 Aeka-Advisors-Assignments/
 │
 ├── CreativeShowcase/
@@ -127,6 +130,8 @@ Aeka-Advisors-Assignments/
 ├── SpotifyLyricSearch/
 │
 └── README.md
+```
+
 
 
 ---
