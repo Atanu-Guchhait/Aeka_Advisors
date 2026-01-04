@@ -49,11 +49,16 @@ The dataset contains information about:
 - **Scikit-learn** *(if recommendation logic is ML-based)*
 
 ---
+## 📂 Project Structure
+
+```
 visitPlaceRecommendation/
 │
-├── visitPlaceRecommendation.ipynb # Main recommendation notebook
-├── Top Indian Places to Visit.csv # Dataset
-└── README.md # Project documentation
+├── visitPlaceRecommendation.ipynb   # Main recommendation notebook
+├── Top Indian Places to Visit.csv   # Dataset
+└── README.md                        # Project documentation
+```
+
 
 
 ---
@@ -120,5 +125,5 @@ Aspiring Machine Learning & Data Science Engineer
 📜 License
 
 This project is intended for educational and portfolio purposes.
-## 🗂 Project Structure
+
 
