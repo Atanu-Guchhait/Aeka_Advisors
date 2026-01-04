@@ -20,21 +20,27 @@ The platform provides private dashboards for users and public profile pages that
 
 ## 🗂 Project Structure
 
-creative-showcase/
+CreativeShowcase/
 │
-├── index.html # Landing page with hero section & community gallery
-├── signup.html # User registration page
-├── login.html # Secure login page
-├── profile.html # Private user dashboard
-├── public-profile.html # Public user gallery page
+├── index.html                # Landing page
+├── signup.html               # User registration
+├── login.html                # User login
+├── profile.html              # Private dashboard
+├── public-profile.html       # Public user gallery
+│
+├── assets/
+│   ├── images/               # Static images (logos, defaults)
+│   └── icons/                # Icons if needed
 │
 ├── css/
-│ └── style.css # Global styling and responsive design
+│   └── style.css             # Global styles
 │
 ├── js/
-│ └── app.js # Authentication, image upload, gallery logic
+│   └── app.js                # Authentication & gallery logic
 │
-└── README.md # Project documentation
+├── README.md                 # Project documentation
+└── .gitignore                # Optional (recommended)
+
 
 ---
 
