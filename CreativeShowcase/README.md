@@ -22,23 +22,23 @@ The platform provides private dashboards for users and public profile pages that
 
 CreativeShowcase/
 │
-├── index.html                # Landing Page
-├── signup.html               # Sign Up Page
-├── login.html                # Login Page
-├── profile.html              # Private Dashboard
-├── public-profile.html       # Public User Gallery
+├── index.html # Landing Page
+├── signup.html # Sign Up Page
+├── login.html # Login Page
+├── profile.html # Private Dashboard
+├── public-profile.html # Public User Gallery
 │
 ├── css/
-│   └── style.css             # Global styles
+│ └── style.css # Global styles
 │
 ├── js/
-│   └── app.js                # All JavaScript logic
+│ └── app.js # All JavaScript logic
 │
 ├── assets/
-│   ├── images/               # Optional images
-│   └── icons/                # Optional icons
+│ ├── images/ # Optional images
+│ └── icons/ # Optional icons
 │
-└── README.md                 # Project documentation
+└── README.md # Project documentation
 
 
 
