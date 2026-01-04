@@ -38,10 +38,15 @@ The notebook demonstrates:
 - **Lyrics API / Web Scraping** *(depending on implementation)*
 
 ---
+## 📂 Project Structure
+
+```
 SpotifyLyricsSearch/
 │
-├── SpotifyLyricsSearch.ipynb # Main notebook
-└── README.md # Project documentation
+├── SpotifyLyricsSearch.ipynb   # Main notebook
+└── README.md                  # Project documentation
+```
+
 
 
 ---
@@ -112,5 +117,5 @@ You are free to use, modify, and extend it.
 Just tell me 🚀
 
 
-## 📂 Project Structure
+
 
