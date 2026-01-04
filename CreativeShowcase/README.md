@@ -1,4 +1,6 @@
 # 🎨 Creative Showcase
+<img width="1880" height="863" alt="Screenshot 2026-01-01 100707" src="https://github.com/user-attachments/assets/1760edd0-970a-47a1-add3-f1fd5799141c" />
+
 
 **Creative Showcase** is a responsive front-end web application that allows artists and creators to upload, manage, and publicly showcase their digital artwork or memories.  
 The platform provides private dashboards for users and public profile pages that can be shared via URL.
