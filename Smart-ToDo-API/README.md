@@ -162,6 +162,6 @@ Import the collection into Postman and run the requests.
 
 ## 👨‍💻 Author
 
-**Subhendu Mandal**  
+**Atanu Guchhait**  
 💼Backend / Full-Stack Developer  
 Passionate about clean UI & scalable backend systems ✨
