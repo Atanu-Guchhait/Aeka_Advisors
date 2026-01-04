@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Create Account</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="auth">
+
+    <form onsubmit="signup(event)">
+        <h2>Create Account</h2>
+        <p class="subtitle">Join Creative Showcase</p>
+
+        <input type="text" id="fullName" placeholder="Full Name" required>
+        <input type="text" id="username" placeholder="Username" required>
+        <input type="email" id="email" placeholder="Email Address" required>
+
+        <select id="role" required>
+            <option value="">Select Role</option>
+            <option>Artist</option>
+            <option>Designer</option>
+            <option>Photographer</option>
+        </select>
+
+        <div class="password-box">
+            <input type="password" id="password" placeholder="Password" required>
+            <span onclick="togglePassword()">👁</span>
+        </div>
+
+        <label class="checkbox">
+            <input type="checkbox" required>
+            I agree to the Terms & Conditions
+        </label>
+
+        <button type="submit">Create Account</button>
+
+        <div class="divider">OR</div>
+
+        <button type="button" class="social google">Continue with Google</button>
+        <button type="button" class="social github">Continue with GitHub</button>
+
+        <p class="switch">
+            Already have an account?
+            <a href="login.html">Login</a>
+        </p>
+    </form>
+
+    <script src="js/app.js"></script>
+</body>
+
+</html>

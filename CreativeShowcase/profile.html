@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="page">
+
+<h2 style="text-align:center;">My Dashboard</h2>
+
+<div style="max-width:600px; margin:auto; text-align:center;">
+  <input type="file" id="imageInput" accept="image/*">
+  <button onclick="uploadImage()">Upload Image</button>
+</div>
+
+<div class="gallery" id="myGallery"></div>
+
+<script src="js/app.js"></script>
+<script>
+  loadMyImages();
+</script>
+
+</body>
+</html>
