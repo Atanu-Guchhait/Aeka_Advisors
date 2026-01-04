@@ -63,19 +63,9 @@ Open SpotifyLyricsSearch.ipynb
 
 Run cells step by step
 
-🔑 Spotify API Setup (If Applicable)
 
-Create a Spotify Developer account
 
-Get:
 
-Client ID
-
-Client Secret
-
-Add credentials inside the notebook or via environment variables
-
-⚠️ Do NOT expose API keys publicly on GitHub
 
 📊 Possible Extensions
 
@@ -88,6 +78,8 @@ Genre-wise lyric comparison
 Emotion detection using NLP
 
 Integration with machine learning models
+
+
 
 🎯 Learning Outcomes
 
@@ -115,17 +107,7 @@ You are free to use, modify, and extend it.
 
 ---
 
-### ✅ This README is:
-✔ Perfect for `.ipynb` projects  
-✔ Interview & portfolio ready  
-✔ Clean GitHub rendering  
-✔ Academic-submission friendly  
 
-If you want next, I can:
-- Add **badges** (Python, Jupyter, Spotify API)
-- Write a **resume project description (2–3 lines)**
-- Add **sample outputs / screenshots**
-- Help convert this into a **full NLP project**
 
 Just tell me 🚀
 
